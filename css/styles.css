@@ -2,6 +2,8 @@
 @import "variable.css";
 /*components*/
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
 /*screen*/
 @import "screens/login.css";
 
