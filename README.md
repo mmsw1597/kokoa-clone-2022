@@ -14,3 +14,5 @@ CSS got so much better!
 ## 요점 (2022/08/18)
 
 1. VS코드 명령어 단축키 (nav>ul>li\*4>a) nav안에 ul안에 li 4개, a하나.
+2. Border Box : 고정된 너비 200px에 padding left 50px를 주면 css는 250px로 만들어버린다.
+이때 Border Box를 적용하면 padding을 주더라도 너비 200px을 유지한다.

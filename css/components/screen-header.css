@@ -1,12 +1,12 @@
-.screen-header{
+.screen-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    padding-top: 40px;
+    padding: var(--horizontal-space);
+    padding-top: 50px;
 }
 
-.screen-header__title{
+.screen-header__title {
     font-size: 32px;
     font-weight: 600;
 }
