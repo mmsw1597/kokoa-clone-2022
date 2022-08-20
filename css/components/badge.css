@@ -9,3 +9,18 @@
     color: white;
     font-weight: 600;
 }
+
+.dot-parent {
+    position: relative;
+}
+
+.dot {
+    background-color: tomato;
+    display: flex;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    position: absolute;
+    left: 20px;
+    bottom: 10px;
+}

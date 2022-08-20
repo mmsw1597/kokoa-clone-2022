@@ -23,3 +23,4 @@ CSS got so much better!
 그 속성을 명시하자.
 2. 부가적인 변경사항 반영할때 무작정 클래스를 추가하지 말고 selector를 사용하자.(ex : last-child)
 3. 부모의 flex 영향으로부터 벗어나려면 부모에 비어있는 div를 추가하면 된다.
+4. inline인 span의 경우 상하 margin은 가질 수 없음.
