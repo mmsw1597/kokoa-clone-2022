@@ -16,11 +16,14 @@
 
 .dot {
     background-color: tomato;
-    display: flex;
     width: 5px;
     height: 5px;
     border-radius: 50%;
     position: absolute;
     left: 20px;
     bottom: 10px;
+}
+
+.alert {
+    color: tomato;
 }

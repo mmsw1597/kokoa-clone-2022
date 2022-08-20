@@ -1,0 +1,30 @@
+.more-suggestions {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: var(--main-border);
+}
+
+.more-suggestions h4 {
+    font-weight: 600;
+}
+
+.more-suggestions__apps {
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.more-suggestions__app img {
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.more-suggestions__app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+}
