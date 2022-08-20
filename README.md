@@ -24,3 +24,10 @@ CSS got so much better!
 2. 부가적인 변경사항 반영할때 무작정 클래스를 추가하지 말고 selector를 사용하자.(ex : last-child)
 3. 부모의 flex 영향으로부터 벗어나려면 부모에 비어있는 div를 추가하면 된다.
 4. inline인 span의 경우 상하 margin은 가질 수 없음.
+
+## 요점 (2022/08/20)
+1. margin에 auto를 주면 자동으로 일정한 간격으로 margin을 부여한다.
+
+## 요점 (2022/08/21)
+1. 3개 column 중앙 정렬하기는 먼저 column 너비를 33%로 만들고, 가운데 column을 text-align: center를 해주면 된다.
+2. position:fixed 를 했는데 디자인이 깨지면 너비를 안준 것 때문일 수 있다.
